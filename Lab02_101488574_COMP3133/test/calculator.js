@@ -1,3 +1,6 @@
+//Name: Gustavo Miranda
+//Student ID: 101488574 
+
 const { expect } = require("chai");
 const calculator = require("../app/calculator");
 

@@ -1,3 +1,6 @@
+//Name: Gustavo Miranda
+//Student ID: 101488574 
+
 exports.add = function(i, j) {
 	return i + j;
 };
